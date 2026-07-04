@@ -1,4 +1,4 @@
 Arcade PVP|144.217.62.159|7777|Samp PvP
-Zona Sul|135.148.164.122|9589|RolePlay
+Rz 1|Ip.horizonte-rp.com|7777RolePlay
 SCRIPT SERVER|192.95.19.107|7777|Samp Cheat
 Server Off De Teste|192.95.19.001|8727|Teste Off
